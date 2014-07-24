@@ -1,7 +1,11 @@
 import java.math.BigInteger;
 
 /** Written by Ryan D'souza
-  *  http://projecteuler.net/problem=48  */
+  *  
+  * http://projecteuler.net/problem=48
+  * 
+  * Output/Answer: 9110846700 
+  */
 public class Problem48 {
   public static void main(String[] args) {
    
