@@ -1,7 +1,11 @@
 import java.util.HashMap;
 
 /** Written by Ryan D'souza
-  *  http://projecteuler.net/problem=29  */
+  * 
+  *  http://projecteuler.net/problem=29
+  * 
+  *  Output/Answer: 9183 
+*/
 
 public class Problem29 {
   public static void main(String[] args) {
